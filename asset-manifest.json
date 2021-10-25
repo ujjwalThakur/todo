@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ujjwalThakur/todo.git/static/css/main.84a5f6cd.chunk.css",
+    "main.js": "/ujjwalThakur/todo.git/static/js/main.2ba54f5e.chunk.js",
+    "main.js.map": "/ujjwalThakur/todo.git/static/js/main.2ba54f5e.chunk.js.map",
+    "runtime-main.js": "/ujjwalThakur/todo.git/static/js/runtime-main.cd232517.js",
+    "runtime-main.js.map": "/ujjwalThakur/todo.git/static/js/runtime-main.cd232517.js.map",
+    "static/js/2.811a93ee.chunk.js": "/ujjwalThakur/todo.git/static/js/2.811a93ee.chunk.js",
+    "static/js/2.811a93ee.chunk.js.map": "/ujjwalThakur/todo.git/static/js/2.811a93ee.chunk.js.map",
+    "index.html": "/ujjwalThakur/todo.git/index.html",
+    "static/css/main.84a5f6cd.chunk.css.map": "/ujjwalThakur/todo.git/static/css/main.84a5f6cd.chunk.css.map",
+    "static/js/2.811a93ee.chunk.js.LICENSE.txt": "/ujjwalThakur/todo.git/static/js/2.811a93ee.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd232517.js",
+    "static/js/2.811a93ee.chunk.js",
+    "static/css/main.84a5f6cd.chunk.css",
+    "static/js/main.2ba54f5e.chunk.js"
+  ]
+}
